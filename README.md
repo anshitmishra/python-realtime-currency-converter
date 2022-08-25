@@ -15,7 +15,6 @@ pip install PyQt5
 ```python
 import PyQt5
 
-uic.loadUi("tictactoi.ui",self) //check the path of ui file
 ```
 
 ## project screenshot
