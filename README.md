@@ -1,4 +1,4 @@
-# Python Tic Tac Toi
+# python-realtime-currency-converter
 
 python realtime currency converter with tkinter small project
 
